@@ -1,0 +1,41 @@
+# Angular specific
+frontend/.angular/
+frontend/node_modules/
+frontend/dist/
+frontend/.editorconfig
+frontend/.gitignore
+frontend/angular.json
+frontend/browserslist
+frontend/karma.conf.js
+frontend/tsconfig.*.json
+frontend/tslint.json
+frontend/README.md
+frontend/*.md
+
+# Java/Spring specific
+/superheroes/target/
+/superheroes/logs/
+superheroes/.idea/
+superheroes/src/main/resources/application.properties
+superheroes/src/test/resources/application.properties
+superheroes/src/main/resources/removeme-application.properties
+*.log
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE specific
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+.idea/
+
+# Other
+.DS_Store
+Thumbs.db
