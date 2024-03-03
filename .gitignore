@@ -16,7 +16,7 @@ frontend/*.md
 /superheroes/target/
 /superheroes/logs/
 superheroes/.idea/
-superheroes/src/main/resources/application.properties
+# superheroes/src/main/resources/application.properties
 superheroes/src/test/resources/application.properties
 superheroes/src/main/resources/removeme-application.properties
 *.log
